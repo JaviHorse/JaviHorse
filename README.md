@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CS Student | Data Analytics, Full-Stack Development, and Automation
 -------------------------------------------------------------------
 
-I’m a Computer Science student at Ateneo de Manila University who enjoys building data-driven and user-focused solutions. My experience includes developing dashboards, internal platforms, automation workflows, and full-stack applications using tools such as Java, Python, Next.js, Prisma, SQL, and Google Sheets API. I’m especially interested in turning raw data into meaningful insights, creating efficient systems, and building products that combine clean design with practical functionality.
+I’m a Computer Science student at Ateneo de Manila University who enjoys building data-driven and user-focused solutions. My experience includes developing dashboards, internal platforms, automation workflows, and full-stack applications using tools such as Java, Python, Next.js, Prisma, SQL, Google Cloud. I’m especially interested in turning raw data into meaningful insights, creating efficient systems, and building products that combine clean design with practical functionality.
 
 * 🌍  I'm based in Metro Manila, Philippines
 * ✉️  You can contact me at [javiermacasaet@gmail.com](mailto:javiermacasaet@gmail.com)
