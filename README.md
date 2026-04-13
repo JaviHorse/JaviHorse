@@ -57,7 +57,6 @@ I’m a **Computer Science student at Ateneo de Manila University** who enjoys b
   <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=22d3ee"/>
   <img src="https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge&logo=tailwind-css&logoColor=38bdf8"/>
   <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=4ade80"/>
-  <img src="https://img.shields.io/badge/NestJS-111827?style=for-the-badge&logo=nestjs&logoColor=ef4444"/>
   <img src="https://img.shields.io/badge/Spring-111827?style=for-the-badge&logo=spring&logoColor=84cc16"/>
   <img src="https://img.shields.io/badge/Django-111827?style=for-the-badge&logo=django&logoColor=22c55e"/>
   <img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=2dd4bf"/>
