@@ -25,7 +25,7 @@ I’m a **Computer Science student at Ateneo de Manila University** who enjoys b
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/Javierdextermacasaet">
+  <a href="https://www.linkedin.com/in/javiermacasaet/">
     <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
   </a>
   <a href="mailto:javiermacasaet@gmail.com">
