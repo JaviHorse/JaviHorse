@@ -34,6 +34,9 @@ I’m a **Computer Science student at Ateneo de Manila University** who enjoys b
   <a href="https://github.com/JaviHorse">
     <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=a78bfa" />
   </a>
+  <a href="https://www.instagram.com/javiii.m.d">
+    <img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=f472b6" />
+  </a>
 </p>
 
 ---
