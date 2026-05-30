@@ -128,11 +128,3 @@ I’m a **Computer Science student at Ateneo de Manila University** who enjoys b
 - Learning more about **machine learning pipelines**, **data engineering**, and **scalable systems**
 
 ---
-
-## ✨ Developer Mindset
-
-```text
-Build with purpose.
-Design with clarity.
-Analyze with depth.
-Automate what matters.
